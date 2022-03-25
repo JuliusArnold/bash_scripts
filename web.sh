@@ -6,6 +6,6 @@
 #  /\_____\\ \_\ \_\ 	| GitHub:   https://github.com/JuliusArnold       |
 #  \/_____/ \/_/\/_/	+-------------------------------------------------+
 #
-# Open vpn from dmenu
+# Open chromium from dmenu
 
 chromium
