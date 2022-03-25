@@ -38,6 +38,8 @@ reshape_hd2()
 	xrandr --output eDP-1 --scale 0.6x0.6
 
 }
+
+
 reshape_hd()
  {
 	 xrandr --prop | grep "[^dis]connected" | cut --delimiter=" " -f1> "$HOME/currentScreens.txt"
@@ -54,15 +56,11 @@ reshape_hd()
  }
 
 
-
-
-
-
-
 reshape_laptop()
 {
 	xrandr --output eDP-1 --scale 0.6x0.6
 }
+
 
 reshape_mun()
 {
