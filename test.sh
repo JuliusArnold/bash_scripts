@@ -6,7 +6,7 @@
 #  /\_____\\ \_\ \_\ 	| GitHub:   https://github.com/JuliusArnold       |
 #  \/_____/ \/_/\/_/	+-------------------------------------------------+
 #
-#
+# Script to open files with dmenu
 
 dir=""
 choice="/home/julius/"
