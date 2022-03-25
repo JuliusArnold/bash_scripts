@@ -5,7 +5,7 @@
 
      __   ______    	+-------------------------------------------------+
     /\ \ /\  __ \   	| Author:   Julius Arnold                         |
-   _\_\ \\ \  __ \	| E-Mail:   private@hotmail.com             |
+   _\_\ \\ \  __ \	| E-Mail:   private@hotmail.com                   |
   /\_____\\ \_\ \_\ 	| GitHub:   https://github.com/JuliusArnold       |
   \/_____/ \/_/\/_/	+-------------------------------------------------+
 ```
