@@ -17,7 +17,7 @@ chmod +x file.sh
 ```
 
 
-To make it executable with `dmenu`, link the file in the folder `~/.local/bin` via the command
+To make it executable with `dmenu`, link the file in the folder `~/.local/bin/` via the command
 ```
 ln -s path_to_file.sh dmenu_command_name
 ```
