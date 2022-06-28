@@ -21,3 +21,6 @@ To make it executable with `dmenu`, link the file in the folder `~/.local/bin/` 
 ```
 ln -s path_to_file.sh dmenu_command_name
 ```
+
+## byebye.sh 
+A script using dmenu to perform easy shutdown, suspend, logout, reboot, and lock operations.
