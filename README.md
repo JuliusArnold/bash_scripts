@@ -24,3 +24,9 @@ ln -s path_to_file.sh dmenu_command_name
 
 ## byebye.sh 
 A script using dmenu to perform easy shutdown, suspend, logout, reboot, and lock operations.
+
+## reshape.sh
+This script allows for an easy alignment of several screens, with resizing and scaling options. 
+
+## vpn.sh
+used for opening cisco Anyconnect Application in i3 via dmenua
